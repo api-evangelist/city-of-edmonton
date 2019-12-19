@@ -1,0 +1,84 @@
+{
+    "name": "City of Edmonton",
+    "description": "Official site of the City of Edmonton in Alberta, Canada. Learn about City services, programs, attractions, events and City projects.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/736-city-of-edmonton.jpg",
+    "tags": [
+        "api provider",
+        "canada",
+        "city government",
+        "data provider",
+        "have api",
+        "marketplaces"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/city-of-edmonton\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "City of Edmonton",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/736-city-of-edmonton.jpg",
+            "humanURL": "https:\/\/data.edmonton.ca\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/city-of-edmonton-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Email",
+            "url": "311@edmonton.ca"
+        },
+        {
+            "type": "Email",
+            "url": "city.clerk@edmonton.ca"
+        },
+        {
+            "type": "Email",
+            "url": "arenasbookings@edmonton.ca"
+        },
+        {
+            "type": "Email",
+            "url": "gymbookings@edmonton.ca"
+        },
+        {
+            "type": "Email",
+            "url": "sportsfieldbookings@edmonton.ca"
+        },
+        {
+            "type": "Email",
+            "url": "bookings@edmonton.ca"
+        },
+        {
+            "type": "Email",
+            "url": "Chrystal.Coleman@edmonton.ca"
+        },
+        {
+            "type": "Email",
+            "url": "debi.winwood@edmonton.ca"
+        },
+        {
+            "type": "Email",
+            "url": "evzcommunications@edmonton.ca"
+        },
+        {
+            "type": "Email",
+            "url": "sandra.green@edmonton.ca"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/CityofEdmonton"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/data.edmonton.ca\/"
+        }
+    ]
+}
