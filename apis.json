@@ -10,8 +10,8 @@
         "have api",
         "marketplaces"
     ],
-    "created": "2019-12-19",
-    "modified": "2019-12-19",
+    "created": "2019-12-20",
+    "modified": "2019-12-20",
     "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/city-of-edmonton\/master\/apis.json",
     "specificationVersion": "0.14",
     "apis": [
@@ -25,13 +25,21 @@
             "properties": [
                 {
                     "type": "x-openapi",
-                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/city-of-edmonton-openapi.json"
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/city-of-edmonton\/master\/city-of-edmonton-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/city-of-edmonton\/master\/city-of-edmonton-postman-collection.json"
                 }
             ]
         }
     ],
     "include": [],
     "x-common": [
+        {
+            "type": "APIs.json",
+            "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/apis.json"
+        },
         {
             "type": "Email",
             "url": "311@edmonton.ca"
